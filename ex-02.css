@@ -1,0 +1,44 @@
+body {
+    color: darkslategray;
+}
+
+#title {
+    color: #8B0000;
+}
+
+h3 {
+    color: rgb(178, 34, 34); font-family: nasalization-rg, serif ;
+    src: url("nasalization-rg.ttf")format("woff2");
+    font-size: 25px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+body {
+    background-color: aliceblue;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+h1 {
+    background-color: rgb(0,0,0,0.2);font-family: nasalisation-rg , serif ;
+    src: url("nasalization-rg.ttf") format("woff2");
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0px;
+    margin: 0px;
+}
+
+@font-face { 
+    font-family: "nasalization-rg";
+    src: url("nasalization-rg.ttf");
+}
+
+ blockquote {
+     border-style: solid;
+     border-width: 2px;
+     border-color: black;
+ }
